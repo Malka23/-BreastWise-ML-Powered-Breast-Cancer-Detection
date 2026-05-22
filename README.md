@@ -138,7 +138,7 @@ numpy
 
 ## 🙋‍♂️ Author
 
-**Your Name**
+**Malka Naaz*
 - GitHub: [@Malka23](https://github.com/Malka23)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/malka-naaz-870338145)
 
